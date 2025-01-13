@@ -41,3 +41,107 @@
 # 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
 # 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
 ```
+```
+* 레포지토리 구조도
+AIFFEL_quest_cr
+├── MainQuest
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest08
+│       ├── .ipynb
+│       └── README.md
+├── Python
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest08
+│       ├── .ipynb
+│       └── README.md
+├── Flutter
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest08
+│   │   ├── .ipynb
+│   │   └── README.md
+└── Exploration
+    ├── Quest01
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest02
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest03
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest04
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest05
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest06
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest07
+    │   ├── .ipynb
+    │   └── README.md
+    └── Quest08
+        ├── .ipynb
+        └── README.md
+```
