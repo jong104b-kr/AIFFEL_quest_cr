@@ -42,5 +42,3 @@ class MyApp extends StatelessWidget {
       ),);
   }
 }
-
-// 중간오류, 2차, 센터로 안감
