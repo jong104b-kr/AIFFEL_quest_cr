@@ -99,3 +99,10 @@ class MyApp extends StatelessWidget {
 // 변종현 - 국문학 전공자와 이공계열 프로젝트를 협업하는 일은 이번이 처음인 것 같습니다. 생각하는 방식이 많이 다를텐데
 // 배려를 잘 해주셔서 서투른 부분들도 보완할 수 있었습니다. 1:1로 과제를 하며 다른 그루를 조금씩 알아가는 부분이 퀘스트B의
 // 좋은 점이라고 생각합니다.
+
+/*
+https://velog.io/@qazws78941/Flutter-Button
+https://blog.naver.com/romantic_sso/223675979150
+https://blog.naver.com/dnwls628/222896748904
+https://velog.io/@qazws78941/Flutter-AppBar
+*/
