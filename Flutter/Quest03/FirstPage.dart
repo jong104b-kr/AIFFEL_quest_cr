@@ -30,7 +30,13 @@ class FirstPage extends StatelessWidget {
                   child: Text('Next'),
                 ),
                 SizedBox(height: 20),
-                Image.network('https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest03/dog.jpeg')
+                GestureDetector(
+                  child: Image.network('https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest03/dog.jpeg'),
+                  onTap: () {
+                    print('is_cat 매개변수 호출');
+                  },
+                )
+
               ],
             ),
           ),

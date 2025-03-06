@@ -36,7 +36,12 @@ class SecondPage extends StatelessWidget {
                     child: Text('Back'),
                   ),
                   SizedBox(height: 20),
-                  Image(image: NetworkImage('https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest03/cat.jpeg'))
+                  GestureDetector(
+                    child: Image.network('https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest03/cat.jpeg'),
+                    onTap: () {
+                      print('is_cat 매개변수 호출');
+                    },
+                  )
                 ],
               ),
             ),
