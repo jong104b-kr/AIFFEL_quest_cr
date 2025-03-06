@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class SecondPage extends StatelessWidget {
-  bool? is_cat;
+  bool? is_cat; // 부울 자료형 초기화 하지 않은 상태로 선언(? 이용)
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -11,7 +11,7 @@ class SecondPage extends StatelessWidget {
             centerTitle: true,
             leading: IconButton(
                 onPressed: () {},
-                icon: Icon(Icons.menu)// 좌측 상단 아이콘 하나 추가
+                icon: Icon(Icons.menu) // 아이콘 바꾸는 작업은 추가해야 함.
             )
           ),
           body: Container(
@@ -23,7 +23,7 @@ class SecondPage extends StatelessWidget {
                   Text(
                     'SecondPage',
                     style: TextStyle(color: Colors.white, fontSize: 30),
-                  ),//컨테이너, 디테일 스크린 텍스트 삽입
+                  ),// 컨테이너, 디테일 스크린 텍스트 삽입
                   ElevatedButton(
                     onPressed: () {
                       is_cat = false;
