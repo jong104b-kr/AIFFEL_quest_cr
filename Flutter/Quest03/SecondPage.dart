@@ -8,6 +8,10 @@ class SecondPage extends StatelessWidget {
           appBar: AppBar(
             title: Text('SecondPage'),//앱바 타이틀 (html타이틀 태그 비슷하게 작용)
             centerTitle: true,
+            leading: IconButton(
+                onPressed: () {},
+                icon: Icon(Icons.menu)// 좌측 상단 아이콘 하나 추가
+            )
           ),
           body: Container(
             color: Colors.green,
