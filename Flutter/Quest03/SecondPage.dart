@@ -1,6 +1,7 @@
-// DetainScreen as TwoScreen
 import 'package:flutter/material.dart';
+
 class SecondPage extends StatelessWidget {
+  bool? is_cat;
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -23,14 +24,9 @@ class SecondPage extends StatelessWidget {
                     'SecondPage',
                     style: TextStyle(color: Colors.white, fontSize: 30),
                   ),//컨테이너, 디테일 스크린 텍스트 삽입
-                  /* ElevatedButton(
-                    onPressed: () {
-                      Navigator.pushNamed(context, '/three');
-                    },
-                    child: Text('Go Three'),
-                  ),*/
                   ElevatedButton(
                     onPressed: () {
+                      is_cat = false;
                       Navigator.pop(context);
                     },
                     child: Text('Back'),
@@ -39,7 +35,8 @@ class SecondPage extends StatelessWidget {
                   GestureDetector(
                     child: Image.network('https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest03/cat.jpeg'),
                     onTap: () {
-                      print('is_cat 매개변수 호출');
+                      is_cat=true;
+                      print("is_cat:$is_cat");
                     },
                   )
                 ],

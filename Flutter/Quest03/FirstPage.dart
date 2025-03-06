@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'dart:io';
 
 class FirstPage extends StatelessWidget {
+  bool? is_cat;
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -25,6 +25,7 @@ class FirstPage extends StatelessWidget {
                 ),
                 ElevatedButton(
                   onPressed: () {
+                    is_cat = true;
                     Navigator.pushNamed(context, '/two');
                   },//'/two' 버튼 생성
                   child: Text('Next'),
@@ -33,7 +34,8 @@ class FirstPage extends StatelessWidget {
                 GestureDetector(
                   child: Image.network('https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest03/dog.jpeg'),
                   onTap: () {
-                    print('is_cat 매개변수 호출');
+                    is_cat=false;
+                    print("is_cat:$is_cat");
                   },
                 )
 
