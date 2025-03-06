@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'dart:io';
 
 class FirstPage extends StatelessWidget {
   @override
@@ -29,7 +30,7 @@ class FirstPage extends StatelessWidget {
                   child: Text('Next'),
                 ),
                 SizedBox(height: 20),
-                Image(image: NetworkImage('https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest03/dog.jpeg'))
+                Image.network('https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest03/dog.jpeg')
               ],
             ),
           ),

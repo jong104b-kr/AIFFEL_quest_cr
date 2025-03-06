@@ -36,7 +36,7 @@ class SecondPage extends StatelessWidget {
                     child: Text('Back'),
                   ),
                   SizedBox(height: 20),
-                  Image(image: NetworkImage('https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest03/cat.jpeg'))
+                  Image(image: NetworkImage('https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest03/cat.jpeg'))
                 ],
               ),
             ),
