@@ -11,7 +11,7 @@ class FirstPage extends StatelessWidget {
           centerTitle: true, // 가운데 정렬 추가
           leading: IconButton(
           onPressed: () {},
-          icon: Icon(Icons.menu) // 아이콘 바꾸는 작업은 추가해야 함.
+          icon: Image.network('https://raw.githubusercontent.com/lokasenna9312/AIFFEL_quest_cr/refs/heads/main/flutter/Quest03/dog_3670718.png') // 아이콘 바꾸는 작업은 추가해야 함.
           )),
         body: Container(
           color: Colors.red,

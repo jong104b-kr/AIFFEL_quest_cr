@@ -11,7 +11,7 @@ class SecondPage extends StatelessWidget {
             centerTitle: true,
             leading: IconButton(
                 onPressed: () {},
-                icon: Icon(Icons.menu) // 아이콘 바꾸는 작업은 추가해야 함.
+                icon: Image.network('https://raw.githubusercontent.com/lokasenna9312/AIFFEL_quest_cr/refs/heads/main/flutter/Quest03/face_16104834.png') // 아이콘 바꾸는 작업은 추가해야 함.
             )
           ),
           body: Container(
