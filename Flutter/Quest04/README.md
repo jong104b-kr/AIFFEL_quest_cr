@@ -44,7 +44,7 @@
 main.dart<br />
 firstPage.dart<br />
 mainPage.dart<br />
-singinPage.dart<br />
+signInPage.dart<br />
 myPage.dart<br />
 detailPage.dart<br />
 scannerPage.dart<br />
