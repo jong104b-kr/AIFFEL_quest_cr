@@ -9,25 +9,25 @@
 타겟 : 한국, 만20세 이상의 술을 즐길 수 있는 성인
 
 1. 정보구조도 설계(Information architecture)
-https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/20250307_154703.jpg
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154703.jpg
 
 2. 와이어프레임 작성(Wireframe)
-https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/20250307_154727.jpg
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154727.jpg
 
 3. 프로토타이핑 진행(Prototyping)
 사용툴 : Figma
 첫번째 페이지
-https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/FirstPage.png
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png
 메인 페이지
-https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/MainPage.png
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MainPage.png
 회원가입 페이지
-https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/SignIn.png
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/SignIn.png
 내 페이지
-https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/MyPage.png
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MyPage.png
 상세 페이지
-https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/DetailPage.png
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/DetailPage.png
 스캔 페이지
-https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/Scanner.png
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/Scanner.png
 
 4. 페이지 구현(예정)
 main.dart
