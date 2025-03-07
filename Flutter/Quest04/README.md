@@ -9,7 +9,7 @@
 타겟 : 한국, 만20세 이상의 술을 즐길 수 있는 성인
 
 1. 정보구조도 설계(Information architecture)
-(https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/20250307_154703.jpg)
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154703.jpg?raw=true)
 
 3. 와이어프레임 작성(Wireframe)
 https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154727.jpg
