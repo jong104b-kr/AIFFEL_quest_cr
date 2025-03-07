@@ -37,13 +37,13 @@
 <img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/Scanner.png?raw=true" width="200" />
 
 5. 페이지 구현(예정)
-main.dart
-firstPage.dart
-mainPage.dart
-singinPage.dart
-myPage.dart
-detailPage.dart
-scannerPage.dart
+main.dart<br />
+firstPage.dart<br />
+mainPage.dart<br />
+singinPage.dart<br />
+myPage.dart<br />
+detailPage.dart<br />
+scannerPage.dart<br />
 
 6. 구현영상(예정)
 7. 참고자료(예정)
