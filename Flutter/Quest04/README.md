@@ -1,43 +1,44 @@
 * 레포지토리에 대한 간략한 소개
 
-모두연 아이펠 12기 코어 과정에서 처음 마주한 프로젝트 레포지토리, 구조도는 업데이트 예정(2025.1.13 이후)
+모두연 아이펠 12기 코어 과정 플러터 퀘스트 04 - 모바일앱 역설계(와인 검색기)
 
-# AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
-# PRT(Peer Review Template)
-- [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
-    - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-        - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-    
-- [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
-주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
-    - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
-    - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
-    - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
-    - 주석을 보고 코드 이해가 잘 되었는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        
-- [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
-새로운 시도 또는 추가 실험을 수행해봤나요?**
-    - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
-    - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
-    실험이 기록되어 있는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        
-- [ ]  **4. 회고를 잘 작성했나요?**
-    - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
-    배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
-    - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        
-- [ ]  **5. 코드가 간결하고 효율적인가요?**
-    - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
-    - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-# 회고(참고 링크 및 코드 개선)
-```
-# 리뷰어의 회고를 작성합니다.
-# 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
-# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
-```
+앱정보
+앱이름 : Vivino Wine Searcher
+시장 : 와인은 음식, 사교활동으로 성인이면 기호로 즐길 수 있는 하나의 아이콘입니다. 
+소주가 대세인 대한민국 술문화에서 성인들을 대상으로 교양을 넓힐 수 있는 도구로 자리잡고자 합니다.
+타겟 : 한국, 만20세 이상의 술을 즐길 수 있는 성인
+
+1. 정보구조도 설계(Information architecture)
+https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/20250307_154703.jpg
+
+2. 와이어프레임 작성(Wireframe)
+https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/20250307_154727.jpg
+
+3. 프로토타이핑 진행(Prototyping)
+사용툴 : Figma
+첫번째 페이지
+https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/FirstPage.png
+메인 페이지
+https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/MainPage.png
+회원가입 페이지
+https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/SignIn.png
+내 페이지
+https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/MyPage.png
+상세 페이지
+https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/DetailPage.png
+스캔 페이지
+https://raw.githubusercontent.com/jong104b-kr/AIFFEL_quest_cr/refs/heads/master/Flutter/Quest04/Scanner.png
+
+4. 페이지 구현(예정)
+main.dart
+firstPage.dart
+mainPage.dart
+singinPage.dart
+myPage.dart
+detailPage.dart
+scannerPage.dart
+
+5. 구현영상(예정)
+6. 참고자료(예정)
+7. 회고(예정)
+
