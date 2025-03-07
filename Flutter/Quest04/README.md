@@ -18,22 +18,22 @@
 
 사용툴 : Figma
 
-첫번째 페이지
+첫번째 페이지<br />
 <img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png?raw=true" width="200" />
 
-메인 페이지
+메인 페이지<br />
 <img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MainPage.png?raw=true" width="200" />
 
-회원가입 페이지
+회원가입 페이지<br />
 <img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/SignIn.png?raw=true" width="200" />
 
-내 페이지
+내 페이지<br />
 <img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MyPage.png?raw=true" width="200" />
 
-상세 페이지
+상세 페이지<br />
 <img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/DetailPage.png?raw=true" width="200" />
 
-스캔 페이지
+스캔 페이지<br />
 <img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/Scanner.png?raw=true" width="200" />
 
 5. 페이지 구현(예정)
