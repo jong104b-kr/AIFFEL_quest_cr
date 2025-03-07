@@ -17,15 +17,20 @@
 3. 프로토타이핑 진행(Prototyping)
 사용툴 : Figma
 첫번째 페이지
-![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png?raw=true)
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png?raw=true | width=100)
+
 메인 페이지
 ![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MainPage.png?raw=true)
+
 회원가입 페이지
 ![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/SignIn.png?raw=true)
+
 내 페이지
 ![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MyPage.png?raw=true)
+
 상세 페이지
 ![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/DetailPage.png?raw=true)
+
 스캔 페이지
 ![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/Scanner.png?raw=true)
 
