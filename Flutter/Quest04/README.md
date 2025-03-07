@@ -9,12 +9,12 @@
 타겟 : 한국, 만20세 이상의 술을 즐길 수 있는 성인
 
 1. 정보구조도 설계(Information architecture)
-https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154703.jpg
+https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154703.jpg?raw=true
 
-2. 와이어프레임 작성(Wireframe)
+3. 와이어프레임 작성(Wireframe)
 https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154727.jpg
 
-3. 프로토타이핑 진행(Prototyping)
+4. 프로토타이핑 진행(Prototyping)
 사용툴 : Figma
 첫번째 페이지
 https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png
@@ -29,7 +29,7 @@ https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/Detai
 스캔 페이지
 https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/Scanner.png
 
-4. 페이지 구현(예정)
+5. 페이지 구현(예정)
 main.dart
 firstPage.dart
 mainPage.dart
@@ -38,7 +38,7 @@ myPage.dart
 detailPage.dart
 scannerPage.dart
 
-5. 구현영상(예정)
-6. 참고자료(예정)
-7. 회고(예정)
+6. 구현영상(예정)
+7. 참고자료(예정)
+8. 회고(예정)
 
