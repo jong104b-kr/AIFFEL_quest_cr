@@ -17,7 +17,7 @@
 3. 프로토타이핑 진행(Prototyping)
 사용툴 : Figma
 첫번째 페이지
-<img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png?raw=true" width="100" />
+<img src="https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png?raw=true" width="200" />
 
 메인 페이지
 ![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MainPage.png?raw=true)
