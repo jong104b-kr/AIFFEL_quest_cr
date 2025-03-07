@@ -11,23 +11,23 @@
 1. 정보구조도 설계(Information architecture)
 ![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154703.jpg?raw=true)
 
-3. 와이어프레임 작성(Wireframe)
-https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154727.jpg
+2. 와이어프레임 작성(Wireframe)
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/20250307_154727.jpg?raw=true)
 
-4. 프로토타이핑 진행(Prototyping)
+3. 프로토타이핑 진행(Prototyping)
 사용툴 : Figma
 첫번째 페이지
-https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/FirstPage.png?raw=true)
 메인 페이지
-https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MainPage.png
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MainPage.png?raw=true)
 회원가입 페이지
-https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/SignIn.png
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/SignIn.png?raw=true)
 내 페이지
-https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MyPage.png
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/MyPage.png?raw=true)
 상세 페이지
-https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/DetailPage.png
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/DetailPage.png?raw=true)
 스캔 페이지
-https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/Scanner.png
+![Alt Text](https://github.com/jong104b-kr/AIFFEL_quest_cr/blob/master/Flutter/Quest04/Scanner.png?raw=true)
 
 5. 페이지 구현(예정)
 main.dart
