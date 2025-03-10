@@ -42,12 +42,12 @@
 5. 페이지 구현(예정)
 
 main.dart<br />
-firstPage.dart<br />
-mainPage.dart<br />
-signInPage.dart<br />
-myPage.dart<br />
-detailPage.dart<br />
-scannerPage.dart<br />
+FirstPage.dart<br />
+HomePage.dart<br />
+SignInPage.dart<br />
+MyPage.dart<br />
+DetailPage.dart<br />
+ScannerPage.dart<br />
 
 6. 구현영상(예정)
 7. 참고자료(예정)
