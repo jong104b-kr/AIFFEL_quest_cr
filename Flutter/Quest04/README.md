@@ -6,7 +6,7 @@ AIFFEL Campus Online Code Peer Review Templete
 
 코더 : 변종현
 
-리뷰어 : 
+리뷰어 : 김선
 
 
 <aside>
@@ -38,3 +38,6 @@ AIFFEL Campus Online Code Peer Review Templete
 
 
 회고(참고 링크 및 코드 개선)
+와인 스캔 페이지 구현을 시도한 점이 인상깊었습니다. 코드는 문제가 없었으나 작동이 안되는 게 아쉬웠습니다.
+코드 중간중간에 기록을 잘 작성해주셔서 보기 편했습니다. 코드도 전반적으로 간결하고 보기 좋게 작성된 것 같습니다. 
+회고가 텍스트로 남겨져있지 않은 게 조금 아쉽네요. 잘봤습니다. 
