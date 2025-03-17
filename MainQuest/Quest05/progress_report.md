@@ -71,5 +71,5 @@
 - 학습한 내용 중 가장 유용했던 점:
 - 어려웠던 부분과 해결 방법: 카메라 호출 시 앱이 작동하지 않는 문제를 해결해야 합니다. 아래 문서를 참고하여 고민 중입니다.
 - https://developer.android.com/guide/navigation/custom-back/predictive-back-gesture?hl=ko
-- 앞으로 더 학습이 필요한 부분: 데이터 설계 및 활용용
+- 앞으로 더 학습이 필요한 부분: 데이터 설계 및 활용
 - 학습한 내용을 실제 프로젝트에 어떻게 적용할 수 있을지:
