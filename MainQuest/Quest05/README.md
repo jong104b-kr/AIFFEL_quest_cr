@@ -2,8 +2,9 @@
 
 모두연 아이펠 12기 코어 메인퀘스트 #05
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
+- 코더 : 변종현
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
+
 <aside>
 🔑 **PRT(Peer Review Template)**
 
