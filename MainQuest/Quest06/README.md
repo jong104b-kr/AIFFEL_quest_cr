@@ -1,6 +1,6 @@
 * 레포지토리에 대한 간략한 소개
 
-모두연 아이펠 12기 코어 dlthon(mainquest06) 5조 레포지토리
+모두연 아이펠 12기 코어 dlthon(main_quest_06) 5조 레포지토리
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 변종현,이윤환,박지윤,고은,공옥례
