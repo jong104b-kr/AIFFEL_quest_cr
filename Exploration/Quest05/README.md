@@ -1,7 +1,9 @@
 * 레포지토리에 대한 간략한 소개
 
 모두연 아이펠 12기 코어 Exploration_CR12 노드 서브퀘스트C 05
+
 제가 노드를 모두 이해한 상황이 아니라서 생성형ai의 도움을 받았습니다.
+
 하나는 네이버 클로버x 이고, 다른 하나는 챗gpt입니다. 둘다 중간에 에러가 있었으며 보완할 예정입니다.
 
 # AIFFEL Campus Online Code Peer Review Templete
