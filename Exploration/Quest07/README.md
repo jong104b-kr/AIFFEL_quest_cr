@@ -1,10 +1,10 @@
 * 레포지토리에 대한 간략한 소개
 
-모두연 아이펠 12기 코어 과정에서 처음 마주한 프로젝트 레포지토리, 구조도는 업데이트 예정(2025.1.13 이후)
+모두연 아이펠 12기 코어 과정 ExCR12 subQuest07
 
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : 변종현
+- 리뷰어 : https://github.com/Chochoho/AIFFEL_quest_cr/blob/main/Exploration/Quest07/exploration7.ipynb 참고
 <aside>
 
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요? (완성도)**
