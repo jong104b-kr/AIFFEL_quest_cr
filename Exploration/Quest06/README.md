@@ -4,7 +4,7 @@
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 변종현
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 리뷰어 : (https://github.com/lhe0186/AIFFEL_quest_cr/blob/main/Exploration/Quest06/Exploration_quest_0423%20(2).ipynb) 참고
 <aside>
 
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요? (완성도)**
