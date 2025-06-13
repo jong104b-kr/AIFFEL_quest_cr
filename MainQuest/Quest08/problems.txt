@@ -1,0 +1,114 @@
+미해결 부분들
+
+Install packages:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the server:
+
+bash
+Copy
+Edit
+uvicorn main:app --reload
+Test it at:
+
+bash
+Copy
+Edit
+http://localhost:8000/docs
+
+
+***option 1***
+
+Step 1: Create the FastAPI app in regular .py files
+(Use the code I provided earlier in main.py and grading.py.)
+
+Step 2: Start the server
+In your terminal (outside the notebook), run:
+
+bash
+Copy
+Edit
+uvicorn main:app --reload
+This starts the API at http://127.0.0.1:8000
+
+Step 3: In your Jupyter notebook, make requests using Python
+python
+Copy
+Edit
+import requests
+
+url = "http://127.0.0.1:8000/grade"
+
+data = {
+    "question": "Describe how a circuit breaker works.",
+    "correct_answer": "A circuit breaker automatically stops current flow when overload is detected.",
+    "student_answer": "It shuts off power when too much electricity flows.",
+}
+
+response = requests.post(url, json=data)
+print(response.json())
+
+
+
+***option2***
+
+Option 2: Skip FastAPI, run grading logic directly inside the notebook
+If you’re just testing or prototyping, you can load the grading logic without using an API.
+
+Step 1: Put the grading logic in a cell
+python
+Copy
+Edit
+import openai
+openai.api_key = "your_openai_api_key"
+
+def grade_answer(question: str, correct_answer: str, student_answer: str) -> dict:
+    prompt = f"""
+You are an expert grader for the Electrical Industry Engineer Practical Exam.
+Grade the student's short answer.
+
+Question:
+{question}
+
+Correct Answer:
+{correct_answer}
+
+Student Answer:
+{student_answer}
+
+Provide a score from 0 to 10 and a short feedback (in Korean).
+
+Format:
+Score: <score>
+Feedback: <feedback>
+"""
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.2,
+    )
+
+    content = response.choices[0].message['content']
+    
+    try:
+        score_line, feedback_line = content.strip().split("\n", 1)
+        score = float(score_line.replace("Score:", "").strip())
+        feedback = feedback_line.replace("Feedback:", "").strip()
+    except:
+        score = 0.0
+        feedback = "Failed to parse response."
+
+    return {"score": score, "feedback": feedback}
+Step 2: Call it with sample input
+python
+Copy
+Edit
+result = grade_answer(
+    question="What is a relay used for?",
+    correct_answer="It is an electrically operated switch used to control circuits.",
+    student_answer="It turns on circuits automatically.",
+)
+print(result)
